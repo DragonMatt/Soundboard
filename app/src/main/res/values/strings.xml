@@ -3,4 +3,19 @@
     <string name="A">A</string>
     <string name="B">B</string>
     <string name="C">C</string>
+    <string name="scale">scale</string>
+    <string name="song1">Song 1</string>
+    <string name="song2">Song 2</string>
+    <string name="Bb">Bb</string>
+    <string name="Cs">C#</string>
+    <string name="D">D</string>
+    <string name="Ds">D#</string>
+    <string name="E">E</string>
+    <string name="F">F</string>
+    <string name="Fs">F#</string>
+    <string name="G">G</string>
+    <string name="Gs">G#</string>
+    <string name="Record">Record</string>
+    <string name="Stop">Stop</string>
+    <string name="Play">Play</string>
 </resources>
